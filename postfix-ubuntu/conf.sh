@@ -3,6 +3,7 @@
 hostname="mail.hr-corp.local"
 ip="192.168.80.10"
 
+apt install rsyslog -y
 sudo hostnamectl set-hostname ${hostname}
 echo 127.0.0.1 ${hostname} >> /etc/hosts
 echo ${ip} ${hostname} >> /etc/hosts
