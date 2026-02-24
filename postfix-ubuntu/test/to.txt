@@ -1,0 +1,13 @@
+bmarques@cosmetics-corp.local
+dalmada@cosmetics-corp.local
+ecavalcanti@cosmetics-corp.local
+hbatista@cosmetics-corp.local
+ipereira@cosmetics-corp.local
+kcosta@cosmetics-corp.local
+mmelo@cosmetics-corp.local
+nrocha@cosmetics-corp.local
+sbatista@cosmetics-corp.local
+sguimaraes@cosmetics-corp.local
+vagrant@cosmetics-corp.local
+vfonseca@cosmetics-corp.local
+wcarvalho@cosmetics-corp.local
